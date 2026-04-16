@@ -70,3 +70,12 @@ void display()
     }
     cout << endl;
 }
+
+void binarySearch()
+{
+    char ulang;
+    do
+    {
+        cout << "\n========================================================\n";
+        cout << "\n             Pencarian Binary Search                    \n";
+        cout << " =========================================================\n";
